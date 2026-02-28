@@ -1,0 +1,2 @@
+Updated content!
+Edit made via MCP write_file tool.
